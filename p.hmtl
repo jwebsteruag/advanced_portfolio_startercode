@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Page Title</title>
+    </head>
+    <body>
+         <div class="row">
+         <div class="container">
+            <div class="col-xs-12">12</div>
+         </div>
+        <div class="row">
+        <div class="container">
+            <div class="col-xs-6">6</div>
+            <div class="col-xs-6">6</div>
+         </div>
+         </div>
+         <div class="row">
+            <div class="col-xs-12">12</div>
+         </div>
+         <div class="row">
+            <div class="col-xs-12">12</div>
+         </div>
+         <div class="row">
+            <div class="col-xs-12">12</div>
+         </div>
+         <div class="row">
+            <div class="col-xs-12">12</div>
+         </div>
+         <div class="row">
+            <div class="col-xs-12">12</div>
+         </div>
+         <div class="row">
+            <div class="col-xs-12">12</div>
+         </div>
+    </div>
+    </body> 
+</html>
